@@ -1,0 +1,21 @@
+# Mac
+.DS_Store
+
+# build artifacts
+/a.out
+/a.out.dSYM
+/config.log
+/config.status
+/include/ptbuildopts.h
+/lib_Darwin_x86_64
+/Makefile
+/make/ptbuildopts.mak
+/make/ptlib-config
+/plugins/config.log
+/plugins/config.status
+/plugins/Makefile
+/plugins/vidinput_dc/Makefile
+/plugins/vidinput_v4l2/Makefile
+/ptlib_cfg.dxy
+/ptlib.pc
+/revision.h
